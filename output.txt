@@ -1,0 +1,25 @@
+www.michelvigoureux.fr
+|   |-- 
+|   |-- python-seo
+|   |   |-- analyse-logs-secrets-robots-moteurs-recherche
+|   |   |-- 
+|   |   |-- comment-installer-python-3-sur-ubuntu
+|   |   |-- verification-des-codes-de-statut-des-urls-avec-python
+|   |   |-- pourquoi-choisir-python-en-seo
+|   |-- seo-technique
+|   |   |-- optimisation-url-seo
+|   |   |-- guide-installation-search-console-validation-dns
+|   |   |-- les-robots-des-moteurs-de-recherche
+|   |   |-- guide-seo-optimisation-brotli
+|   |   |-- 
+|   |-- a-propos-de-moi
+|   |-- seo
+|   |   |-- 
+|   |   |-- comprendre-l-importance-des-backlinks-en-seo
+|   |   |-- analyse-volatilite-classement-mise-a-jour-google-aout-2023
+|   |   |-- optimiser-core-web-vitals-classement-google
+|   |   |-- ameliorer-la-vitesse-de-chargement-largest-contentful-paint-lcp
+|   |   |-- decouvrir-l-operateur-site-google
+|   |   |-- guide-complet-redaction-seo
+|   |   |-- augmentez-votre-trafic-organique
+|   |-- contact
