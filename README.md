@@ -30,18 +30,24 @@ Given a text file (`urls.txt`) containing URLs, this script will visualize the h
 
 The input file (`urls.txt`) should contain one URL per line. For example:
 
-bashCopy code
 
-`https://example.com/path1/path2 https://example.com/path1/path3`
+```
+https://example.com/path1/path2 
+https://example.com/path1/path3
+
+```
 
 ## 📤 Output Example
 
 The output (`output.txt`) for the above input will look something like:
 
-luaCopy code
+```
+example.com
+|-- path1
+|   |-- path2
+|   |-- path3
 
-`example.com |-- path1 |   |-- path2 |   |-- path3`
-
+```
 ## 📚 Dependencies
 
 - Python's built-in libraries: `collections`
